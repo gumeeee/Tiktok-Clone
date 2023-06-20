@@ -1,7 +1,7 @@
 <h1 align="center"> Tiktok Clone </h1>
 
 <p align="center"> 
-Projeto feito a partir do React e Firebase
+Projeto feito a partir do React e com banco de dados e host do Firebase
 </p>
 
 <p align="center">
