@@ -1,7 +1,7 @@
 <h1 align="center"> Tiktok Clone </h1>
 
 <p align="center"> 
-Programa exclusivo  e gratuito, promovido pela Rocketseat para ensino de tecnologias Web.
+Projeto feito a partir do React e Firebase
 </p>
 
 <p align="center">
